@@ -1,0 +1,8 @@
+{
+    "name": "Message Utilities",
+    "version": "1.0.0",
+    "description": "Advanced message injection with custom UI", 
+    "author": "tfqttujiujju7-oss",
+    "license": "MIT",
+    "main": "MessageUtilities.js"
+}
